@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+TextAnalysis_ProjectHero/__init__.py
+TextAnalysis_ProjectHero/data_processing.py
+TextAnalysis_ProjectHero/date_cleaning.py
+TextAnalysis_ProjectHero/text_cleaning.py
+TextAnalysis_ProjectHero.egg-info/PKG-INFO
+TextAnalysis_ProjectHero.egg-info/SOURCES.txt
+TextAnalysis_ProjectHero.egg-info/dependency_links.txt
+TextAnalysis_ProjectHero.egg-info/top_level.txt
